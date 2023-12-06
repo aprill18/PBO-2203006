@@ -48,6 +48,11 @@
 					</a>
 				</li>
 				<li>
+					<a href="<?php echo URL; ?>/fakultas">
+						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Fakultas
+					</a>
+				</li>
+				<li>
 					<a href="<?php echo URL; ?>/dashboard/logout">
 						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Logout
 					</a>
@@ -63,7 +68,7 @@
 		</article>
 
 		<footer>
-			Copyright &copy; 2022 - <?php echo date('Y'); ?>. Designed by Mr. Sue
+			Copyright &copy; 2022 - <?php echo date('Y'); ?>. Designed by Mr. Use
 		</footer>
 	</main>
 

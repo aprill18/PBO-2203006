@@ -1,3 +1,3 @@
 <h2>Dashboard</h2>
 
-<div class="info">Selamat datang</div>
+<div class="info"> <marquee>Selamat datang Uchiha April</marquee></div>
